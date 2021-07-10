@@ -11,5 +11,3 @@
    myenv\Scripts\activate
  
    flask run 
-
-- Open the browser and paste the local port - http://127.0.0.1:5000/ 
