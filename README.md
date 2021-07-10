@@ -1,4 +1,4 @@
-# Web-App-ML-Titanic-Model
+### Web-App-ML-Titanic-Model
 
 - Create virtual environment and run the dependencies using the requirements.txt file.
 
